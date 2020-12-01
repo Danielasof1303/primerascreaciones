@@ -1,0 +1,13 @@
+html {background: #cdcdcd;
+  font-family: "helvetica"
+}
+h1 {
+  background-color: pink;
+  font-size: 48px;
+  color: purple
+}
+p {font-weight: bold;
+  color: white}
+.destacado{color: orange;
+font-size: 24px;
+font-style: italic}
